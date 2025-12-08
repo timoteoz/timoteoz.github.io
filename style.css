@@ -1,0 +1,44 @@
+.cacto {
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+body{
+    background-color: rgba(248, 245, 241, 0.658);
+}
+
+
+.caixa {
+    border-radius: 5px;
+    background-color: rgb(252, 252, 252);
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    width: 400px;
+   padding: 10px;
+ 
+}
+
+
+h5 {
+    color: purple;
+    background-color: rgba(176, 101, 247, 0.24);
+    border-radius: 10px;
+    width: 42px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+
+p , h3{
+font-size:smaller;
+margin-top: 5px;
+}
+
+
+
+footer {
+    font-size: x-small;
+    margin-top: 5px;
+}
